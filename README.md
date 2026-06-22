@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Projects
 
-A collection of Machine Learning projects built using Python and popular ML libraries. This repository demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis, feature engineering, model building, evaluation, and deployment-ready practices.
+A collection of Machine Learning projects built using Python and industry-standard ML libraries. This repository showcases end-to-end machine learning workflows, including data preprocessing, exploratory data analysis (EDA), feature engineering, model development, evaluation, and business insights.
 
 ---
 
@@ -10,101 +10,152 @@ Hi, I'm Harsh Poonia.
 
 🎓 MCA Student at Thapar Institute of Engineering & Technology
 
-I am passionate about Machine Learning, Data Analytics, and Software Development. This repository documents my journey of learning and implementing Machine Learning algorithms through real-world projects.
+I am passionate about Machine Learning, Data Analytics, and Software Development. This repository documents my journey of building real-world machine learning projects while strengthening my understanding of data-driven problem solving.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Programming
-- Python
+
+* Python
 
 ### Data Manipulation
-- Pandas
-- NumPy
 
-### Visualization
-- Matplotlib
-- Seaborn
+* Pandas
+* NumPy
+
+### Data Visualization
+
+* Matplotlib
+* Seaborn
 
 ### Machine Learning
-- Scikit-Learn
+
+* Scikit-Learn
 
 ### Development Tools
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
+
+* Jupyter Notebook
+* VS Code
+* Git
+* GitHub
 
 ---
 
 ## 📚 Machine Learning Workflow
 
-Projects in this repository generally follow:
+Projects in this repository typically follow:
 
 1. Data Collection
 2. Data Cleaning
 3. Exploratory Data Analysis (EDA)
 4. Feature Engineering
-5. Model Training
-6. Hyperparameter Tuning
+5. Data Preprocessing
+6. Model Training
 7. Model Evaluation
 8. Performance Comparison
 9. Business Insights
+10. Model Persistence
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-| No. | Project | ML Type | Status |
-|------|---------|----------|---------|
-| 1 | House Price Prediction | Regression | 🔄 Upcoming |
-| 2 | Customer Churn Prediction | Classification | 🔄 Upcoming |
-| 3 | Credit Risk Prediction | Classification | 🔄 Upcoming |
-| 4 | Customer Segmentation | Clustering | 🔄 Upcoming |
-| 5 | Recommendation System | Recommendation | 🔄 Upcoming |
-| 6 | Email Spam Detection | NLP | 🔄 Upcoming |
-| 7 | Movie Review Sentiment Analysis | NLP | 🔄 Upcoming |
-| 8 | Loan Approval Prediction | Classification | 🔄 Upcoming |
-| 9 | Sales Forecasting | Time Series | 🔄 Upcoming |
-| 10 | Medical Diagnosis Prediction | Classification | 🔄 Upcoming |
+| No. | Project                              | ML Type        | Status         |
+| --- | ------------------------------------ | -------------- | -------------- |
+| 1   | Customer Churn Analysis & Prediction | Classification | 🟡 In Progress |
+| 2   | House Price Prediction               | Regression     | 🔄 Planned     |
+| 3   | Loan Approval Prediction             | Classification | 🔄 Planned     |
+| 4   | Credit Risk Prediction               | Classification | 🔄 Planned     |
+| 5   | Customer Segmentation                | Clustering     | 🔄 Planned     |
+| 6   | Recommendation System                | Recommendation | 🔄 Planned     |
+| 7   | Email Spam Detection                 | NLP            | 🔄 Planned     |
+| 8   | Movie Review Sentiment Analysis      | NLP            | 🔄 Planned     |
+| 9   | Sales Forecasting                    | Time Series    | 🔄 Planned     |
+| 10  | Medical Diagnosis Prediction         | Classification | 🔄 Planned     |
+
+---
+
+## 📌 Current Project
+
+### Customer Churn Analysis & Prediction
+
+#### Objective
+
+Predict whether a telecom customer is likely to churn based on customer demographics, service usage, and account information.
+
+#### Progress
+
+* ✅ Data Cleaning
+* ✅ Exploratory Data Analysis (EDA)
+* ✅ Feature Engineering
+* ✅ Data Preprocessing
+* ✅ Train-Test Split
+* ✅ Feature Scaling
+* ⏳ Model Training
+* ⏳ Model Evaluation
+* ⏳ Model Comparison
+
+#### Skills Demonstrated
+
+* Data Cleaning
+* Data Visualization
+* Feature Engineering
+* One-Hot Encoding
+* Feature Scaling
+* Classification Preparation
+* Business Insight Generation
 
 ---
 
 ## 🎯 Learning Goals
 
-- Build 10+ Machine Learning Projects
-- Strengthen Statistics and Mathematics
-- Master Scikit-Learn
-- Learn Feature Engineering
-- Improve Model Optimization Skills
-- Explore Deep Learning
-- Build an Industry-Ready Portfolio
+* Build 10+ Machine Learning Projects
+* Strengthen Statistical Thinking
+* Master Scikit-Learn
+* Learn Model Optimization Techniques
+* Explore NLP and Deep Learning
+* Develop Industry-Ready ML Workflows
+* Build a Placement-Ready Portfolio
 
 ---
 
 ## 📈 Skills Demonstrated
 
-- Data Preprocessing
-- Feature Engineering
-- Regression Models
-- Classification Models
-- Clustering Techniques
-- Model Evaluation
-- Hyperparameter Tuning
-- Data Visualization
-- Statistical Analysis
-- Machine Learning Pipelines
+* Data Preprocessing
+* Exploratory Data Analysis
+* Feature Engineering
+* Classification
+* Regression
+* Clustering
+* Data Visualization
+* Statistical Analysis
+* Machine Learning Pipelines
+* Model Evaluation
+
+---
+
+## 📂 Repository Structure
+
+```text
+Machine-Learning-Projects/
+│
+├── Customer_Churn_Analysis/
+│
+├── README.md
+│
+└── Future Projects...
+```
 
 ---
 
 ## 📫 Connect With Me
 
 ### GitHub
+
 https://github.com/Harshpoonia
-
-
 
 ---
 
-⭐ If you find these projects useful, feel free to explore and connect.
+⭐ This repository is continuously updated as I build and document new Machine Learning projects.
