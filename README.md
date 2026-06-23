@@ -62,50 +62,64 @@ Projects in this repository typically follow:
 
 ## 🚀 Projects
 
-| No. | Project                              | ML Type        | Status         |
-| --- | ------------------------------------ | -------------- | -------------- |
-| 1   | Customer Churn Analysis & Prediction | Classification | 🟡 In Progress |
-| 2   | House Price Prediction               | Regression     | 🔄 Planned     |
-| 3   | Loan Approval Prediction             | Classification | 🔄 Planned     |
-| 4   | Credit Risk Prediction               | Classification | 🔄 Planned     |
-| 5   | Customer Segmentation                | Clustering     | 🔄 Planned     |
-| 6   | Recommendation System                | Recommendation | 🔄 Planned     |
-| 7   | Email Spam Detection                 | NLP            | 🔄 Planned     |
-| 8   | Movie Review Sentiment Analysis      | NLP            | 🔄 Planned     |
-| 9   | Sales Forecasting                    | Time Series    | 🔄 Planned     |
-| 10  | Medical Diagnosis Prediction         | Classification | 🔄 Planned     |
+| No. | Project                              | ML Type        | Status      |
+| --- | ------------------------------------ | -------------- | ----------- |
+| 1   | Customer Churn Analysis & Prediction | Classification | ✅ Completed |
+| 2   | House Price Prediction               | Regression     | 🔄 Planned  |
+| 3   | Loan Approval Prediction             | Classification | 🔄 Planned  |
+| 4   | Credit Risk Prediction               | Classification | 🔄 Planned  |
+| 5   | Customer Segmentation                | Clustering     | 🔄 Planned  |
+| 6   | Recommendation System                | Recommendation | 🔄 Planned  |
+| 7   | Email Spam Detection                 | NLP            | 🔄 Planned  |
+| 8   | Movie Review Sentiment Analysis      | NLP            | 🔄 Planned  |
+| 9   | Sales Forecasting                    | Time Series    | 🔄 Planned  |
+| 10  | Medical Diagnosis Prediction         | Classification | 🔄 Planned  |
 
 ---
 
-## 📌 Current Project
+## 📌 Featured Project
 
 ### Customer Churn Analysis & Prediction
 
 #### Objective
 
-Predict whether a telecom customer is likely to churn based on customer demographics, service usage, and account information.
+Predict whether a telecom customer is likely to churn based on demographic information, account details, and service usage patterns.
 
-#### Progress
+#### Project Highlights
 
-* ✅ Data Cleaning
+* ✅ Data Cleaning & Preprocessing
 * ✅ Exploratory Data Analysis (EDA)
 * ✅ Feature Engineering
-* ✅ Data Preprocessing
-* ✅ Train-Test Split
-* ✅ Feature Scaling
-* ⏳ Model Training
-* ⏳ Model Evaluation
-* ⏳ Model Comparison
+* ✅ Model Training
+* ✅ Model Evaluation
+* ✅ Model Comparison
+* ✅ Feature Importance Analysis
+* ✅ Model Saving
 
-#### Skills Demonstrated
+#### Models Evaluated
 
-* Data Cleaning
-* Data Visualization
-* Feature Engineering
-* One-Hot Encoding
-* Feature Scaling
-* Classification Preparation
-* Business Insight Generation
+| Model               | Accuracy | Precision | Recall | F1 Score |
+| ------------------- | -------: | --------: | -----: | -------: |
+| Logistic Regression |    0.807 |     0.647 |  0.607 |    0.626 |
+| Decision Tree       |    0.743 |     0.517 |  0.521 |    0.519 |
+| Random Forest       |    0.796 |     0.642 |  0.527 |    0.579 |
+
+#### Best Model
+
+🏆 **Logistic Regression**
+
+* Accuracy: 80.74%
+* Precision: 64.67%
+* Recall: 60.70%
+* F1 Score: 62.62%
+
+#### Key Findings
+
+* Customers with shorter tenure are more likely to churn.
+* Higher monthly charges increase churn risk.
+* Long-term contracts improve customer retention.
+* Fiber optic customers exhibit higher churn rates.
+* Electronic check users are more likely to churn.
 
 ---
 
@@ -123,16 +137,18 @@ Predict whether a telecom customer is likely to churn based on customer demograp
 
 ## 📈 Skills Demonstrated
 
+* Data Cleaning
 * Data Preprocessing
 * Exploratory Data Analysis
 * Feature Engineering
-* Classification
-* Regression
-* Clustering
 * Data Visualization
-* Statistical Analysis
-* Machine Learning Pipelines
+* Classification Modeling
+* Regression Modeling
+* Clustering
 * Model Evaluation
+* Feature Scaling
+* Machine Learning Pipelines
+* Business Insight Generation
 
 ---
 
@@ -147,6 +163,14 @@ Machine-Learning-Projects/
 │
 └── Future Projects...
 ```
+
+---
+
+## 📈 Current Progress
+
+* ✅ 1 Machine Learning Project Completed
+* 🔄 9 Planned Projects Remaining
+* 🎯 Building a diverse portfolio covering Classification, Regression, Clustering, NLP, Recommendation Systems, and Time Series Forecasting
 
 ---
 
